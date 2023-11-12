@@ -1,5 +1,9 @@
 Coming Soon Website with Countdown Timer
 
+screenshot of website
+![Comingsoon](https://github.com/Suha1421/coming-soon-website/assets/149294408/1eafcd88-9db2-44c9-a9b6-8a3ec033a0f5)
+
+
 
 This is a simple "Coming Soon" website created using HTML, JavaScript, and CSS. It features a countdown timer, which helps build anticipation for an upcoming project or website launch.
 
